@@ -18,4 +18,6 @@ password by sending OTP to their mail.
 
 <img width="1470" alt="Screenshot 2024-01-14 at 02 23 50" src="https://github.com/RishikeshPatel98/SmartContactManager/assets/106491800/b885223b-0bef-4da2-a8c5-81e69e69f11c">
 
-<img width="1469" alt="Screenshot 2024-01-14 at 02 24 23" src="https://github.com/RishikeshPatel98/SmartContactManager/assets/106491800/78a930c4-c56e-4031-ad82-9497883d7697">
+
+<img width="1469" alt="Untitled" src="https://github.com/RishikeshPatel98/SmartContactManager/assets/106491800/f3d72b5d-9ab0-482b-92ad-180240478f24">
+
